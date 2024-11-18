@@ -1,0 +1,13 @@
+.Counter_container {
+
+
+    width: 200px;
+    height: 100px;
+    border: 1px solid red;
+    background-color: rgb(189, 212, 231);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 24px;
+
+}
